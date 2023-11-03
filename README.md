@@ -1,3 +1,3 @@
 # FirstProgram
-It is MyFirstProgram \n
+It is MyFirstProgram
 I am learning java for 3 weeks
